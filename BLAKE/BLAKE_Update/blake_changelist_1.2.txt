@@ -1,0 +1,35 @@
+
+* 2.1.2, description of the function "G" of BLAKE-32: direction of the
+  rotations set to ">>>" (toward LSB's) instead of "<<<" (toward MSB's).
+
+* 2.1.2, penultimate paragraph: symbol "G" set in sans serif font.
+
+* 2.2.2, description of the function "G" of BLAKE-64: idem.
+
+* Figure 2.1: idem.
+
+* 3.2.2, footnote: "1000^3" changed to "10^9".
+
+* 3.3.1: "more than 6 billons" changed to "more than 6 billions".
+
+* 3.3.3: idem.
+
+* 5.1, last sentence: "seem unlikely to affect security" changed to
+  "seems unlikely to affect security".
+
+* 5.2.1: "To build a BLAKE compression function primitive based on
+  this structure" changed to "To build BLAKE's compression function
+  based on this algorithm"
+
+* 5.2.1, description of the function "G" of BLAKE-32: idem.
+
+* 5.2.1, description of the inverse function "G" of BLAKE-32:
+  direction of the rotations set to "<<<" (toward MSB's) instead of
+  ">>>" (toward LSB's).
+
+* 5.2.4: "constructions mentioned in Section 5.2.3" changed to
+  "constructions mentioned in \S5.2.3".
+
+* Appendix A: direction of the rotations set to ">>>" (toward LSB's)
+  instead of "<<<" (toward MSB's).
+
