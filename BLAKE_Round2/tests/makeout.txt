@@ -1,0 +1,4 @@
+gcc -Wall -O3 test_collision.c ../ref_impl/*.c -o test_collision
+gcc -Wall -O3 test_compare.c ../ref_impl/*.c -o test_compare
+gcc -Wall -O3 test_compare_csv.c ../ref_impl/*.c -o test_compare_csv
+gcc -Wall -O3 test_fractional.c ../ref_impl/*.c -o test_fractional
